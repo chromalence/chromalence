@@ -1,10 +1,10 @@
 # hi
 ## about me: 
-> im a kid that likes programming
-> open source is life
-> i use arch btw
-> im currently working on chroctl
-> trying to learn C and Rust and i just kinda know bash
+> im a kid that likes programming\n
+> open source is life\n
+> i use arch btw\n
+> im currently working on chroctl\n
+> trying to learn C and Rust and i just kinda know bash\n
 
 
 <!--
