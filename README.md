@@ -1,6 +1,10 @@
 # hi
 ## about me: 
-> 
+> im a kid that likes programming
+> open source is life
+> i use arch btw
+> im currently working on chroctl
+> trying to learn C and Rust and i just kinda know bash
 
 
 <!--
@@ -18,32 +22,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app" width="100%" />
-</div>
-
-<div align="center">
-  <h3> test | test </h3>
-  
-  <p align="center">
-    <img src="https://img.shields.io" />
-    <img src="https://img.shields.io" />
-    <img src="https://img.shields.io" />
-  </p>
-</div>
-
----
-
-### 💻 test
-```text
-  OS: Arch Linux x86_64
-  Host: GitHub Codespaces
-  Kernel: 5.15.0-1035-azure
-  Uptime: 24/7 Coding
-  Packages: 1337 (pacman)
-  Shell: zsh 5.8
-  Resolution: 1920x1080
-  WM: Hyprland (Tokyo Night Rice)
-  Terminal: Alacritty
-  CPU: Intel i7-12700K (20) @ 5.000GHz
-  Memory: 32GiB / 64GiB
