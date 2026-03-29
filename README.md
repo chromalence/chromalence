@@ -1,11 +1,4 @@
 # hi
-## about me: 
-> im a kid that likes programming   
-> open source is life  
-> i use arch btw  
-> im currently working on chroctl  
-> trying to learn C and Rust and i just kinda know bash  
-
 
 # a little about me:
 im working on: chroctl (v1)<br>im into: c, rust & bash<br>i use: arch btw<br>open-source enthusiast
