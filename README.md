@@ -23,4 +23,4 @@ im working on: chroctl (v1)<br>im into: c, rust & bash<br>i use: arch btw<br>ope
 ---
 [![](https://visitcount.itsvg.in/api?id=chromalence&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -chro < thanks -->
